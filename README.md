@@ -34,10 +34,10 @@
 ## Installation
 
 ```bash
-pip install git+https://github.com/unibaseio/membase.git
+pip install git+https://github.com/unibaseio/membase1.0-sdk.git
 # or clone locally
-git clone https://github.com/unibaseio/membase.git
-cd membase
+git clone https://github.com/unibaseio/membase1.0-sdk.git
+cd membase1.0-sdk
 pip install -e .
 ```
 
@@ -275,5 +275,5 @@ MIT License. See [LICENSE](./LICENSE) for details.
 # 📞 Contact
 
 - Website: [https://www.unibase.com](https://www.unibase.com)
-- GitHub Issues: [Membase Issues](https://github.com/unibaseio/membase/issues)
+- GitHub Issues: [Membase Issues](https://github.com/unibaseio/membase1.0-sdk/issues)
 - Email: <support@unibase.com>
