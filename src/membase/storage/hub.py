@@ -270,5 +270,5 @@ class Client:
         """Wait for all tasks in the upload queue to complete"""
         self.upload_queue.join()
 
-he = os.getenv('MEMBASE_HUB', 'https://testnet.hub.membase.io')
+he = os.getenv('MEMBASE_HUB', 'https://testnet.hub.membase.com')
 hub_client = Client(he)
